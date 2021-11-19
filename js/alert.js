@@ -1,3 +1,3 @@
-function alert() {
-  document.getElementById("alert").style.color = "blue";
+function changeColor() {
+  document.getElementById("changeColor").style.color = "blue";
 }
