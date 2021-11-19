@@ -1,0 +1,10 @@
+nav {
+  display: flex;
+  gap: 2rem;
+  flex-direction: row-reverse;
+  width: 100%;
+  justify-content: space-evenly;
+  height: 20rem;
+  background-color: lightblue;
+  align-items: center;
+}
